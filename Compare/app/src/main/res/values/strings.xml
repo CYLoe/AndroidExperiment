@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Compare</string>
+    <string name="book_adapter_versus">vs</string>
+    <string name="book_adapter_etc">vs ...</string>
+    <string name="title_activity_sheet">SheetActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="db_sheet_name_default">Untitled</string>
+    <string name="db_column_name_default">New Column</string>
+    <string name="db_row_name_default">New Row</string>
+</resources>

@@ -1,0 +1,48 @@
+1. image to grid
+2. strings info to grid
+3. clickable image
+4. spawn new activity
+5. create new fragment for column
+6. create rows of cells for column
+7. editable cells for each row
+8a. get and set data between cells and db
+8b. edit text listener
+9. create new fragment for row keys at left of screen
+10a. create rows of cells for new fragment
+10b. onclick cell open option to edit name, type, unit, sort, convert
+11. sync cells and db
+12. create fragment for 3 buttons at bottom of screen
+13. left button show/hides row keys fragment
+14a. right button adds new column
+14b. press and hold top opens menu for move left/right
+14c. delete button at top
+14d. tap top to rename column
+14e. swipe to move between col
+15. lock all first row to image/ads
+16. camera app/load image from gallery to top cell on click
+17. auto ranking rows
+18. middle button compare
+19. create new fragment to show compare result
+20. user can select what they want
+21. save to reporting db
+22. new fragment for hidden menu of main activity
+23. press and hold grid item to open menu
+24. delete grid item button in menu
+25. multi select grid items
+26.  settings button and settings page in main activity
+27. share-to button in sheet and compare
+28. targetted ads setup
+29. add ads to columns
+30. add ads to main activity
+31. add ads to notifications
+32a. set up server for logging reports
+32b. send reports occasionally to server
+33. copy/cut column from one sheet to another sheet
+34. adjust ui for different screen size
+35. set up compare intent to accept external inputs into column
+36. graphics
+37. multilingual translation
+38. locationing using google maps
+39. calculate travel fee
+40. add to reports
+41. launch!
